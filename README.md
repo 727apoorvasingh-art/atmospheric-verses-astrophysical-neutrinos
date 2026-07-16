@@ -1,2 +1,1 @@
-# atmospheric-verses-astrophysical-neutrinos
-First repo, First project, First everthing
+# atmospheric-verses-astrophysical-neutrino
